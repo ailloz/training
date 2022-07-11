@@ -6,7 +6,7 @@
 # Installing the Kanban plugin
 - After installing [Obsidian](https://obsidian.md/) open it and follow the instructions in the pictures:
 
-![[1.png]]
+![[../readme \pictures/1.png]]
 
 ![[2.png]]
 
