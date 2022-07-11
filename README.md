@@ -2,7 +2,7 @@
 - The most efficient way of using this repo, is by using Obsidian markdown tool, because some of the notes here are using the Kanban community plugin of Obsidian. But if you wish not to use the Kanban feature, you can use any markdown app to access these files and use them as checklists, etc.
 # Installing this repository
 - Clone this repo to your desired directory:
-	``` git clone https://github.com/ailloz/training_vault ```
+	``` git clone https://github.com/ailloz/training_template ```
 # Installing the Kanban plugin
 - After installing [Obsidian](https://obsidian.md/) open it and follow the instructions in the pictures:
 
