@@ -1,10 +1,18 @@
-- [ ] webex
-- [ ] jira
-- [ ] slack
-- [ ] github
-- [ ] guardicore academy
-- [ ] testing jenkins
-- [ ] guardicore jenkins
-- [ ] vsphere
+- [ ] change laptop password
+- [ ] set up akamai EAA
+- [ ] webex (akamai email)
+- [ ] slack (akamai email)
+- [ ] zoom (akamai email for slack integration)
+- [ ] outlook (akamai email)
+- [ ] jira (akamai email)
+- [ ] github (any email, but needs permission to access guardicore repos)
+	- [ ] set up 2FA
+- [ ] guardicore academy (chrome profile with guardicore email)
+- [ ] testing jenkins (guardicore domain)
+- [ ] guardicore jenkins (guardicore domain)
+- [ ] vsphere (guardicore domain)
+- [ ] metabase (ben.ella account)
+- [ ] testrail (gc_guest account)
+- [ ] centra (admin/password)
 - [ ] root password for linux VMs
 - [ ] Administrator password for windows VMs
