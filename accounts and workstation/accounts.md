@@ -1,0 +1,10 @@
+- [ ] webex
+- [ ] jira
+- [ ] slack
+- [ ] github
+- [ ] guardicore academy
+- [ ] testing jenkins
+- [ ] guardicore jenkins
+- [ ] vsphere
+- [ ] root password for linux VMs
+- [ ] Administrator password for windows VMs

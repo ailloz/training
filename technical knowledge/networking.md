@@ -1,0 +1,60 @@
+- [hebrew](https://data.cyber.org.il/networks/networks.pdf) 
+	- Chapters 1,3,4,6,7,8,9,11,13
+- [english](https://www.geeksforgeeks.org/computer-network-tutorials/)
+	- [ ] Computer Network Fundamentals :
+	   - [ ] Basics of Computer Networking
+	   - [ ] Types of Network Topology
+	   - [ ] Types of area networks – LAN, MAN and WAN
+	   - [ ]  Let's experiment with Networking - it requiring installing wireshark
+	   - [ ] Layers of OSI Model   
+	   - [ ]  TCP/IP Model
+	- [ ] Physical layer:
+	  - [ ]  Network Devices (Hub, Repeater, Bridge, Switch, Router, Gateways and Brouter)
+	  - [ ]  Transmission Modes in Computer Networks (Simplex, Half-Duplex and Full-Duplex) - **just to know how things works**
+	- [ ] Data Link layer:
+	  - [ ]  Introduction of MAC Address in Computer Network
+	- [ ] Network layer:
+	  - [ ]  Introduction of Internetworking
+	  - [ ]  Line Configuration in Computer Networks
+	  - [ ]  Difference between Unicast, Broadcast and Multicast in Computer Network
+	  - [ ]  Introduction of Classful IP Addressing - **important to understand**
+	  - [ ]  Introduction and IPv4 Datagram Header - **just to know, not in deep**
+	  - [ ]  IPv4 Datagram Fragmentation and Delays - **just to know, not in deep**
+	  - [ ]  Internet Protocol version 6 (IPv6) - **important to understand**
+	  - [ ]  Internet Protocol version 6 (IPv6) Header - **just to know, not in deep**
+	  - [ ]  IP Addressing | Classless Addressing - **important to understand**
+	  - [ ]  Supernetting in Network Layer - **important to understand**
+	  - [ ]  Longest Prefix Matching in Routers
+	  - [ ]  Network Address Translation (NAT) - **important to understand**
+	  - [ ]  Types of Network Address Translation (NAT)
+	  - [ ]  Classification of Routing Algorithms
+	  - [ ]  Types of Routing
+	  - [ ]  Internet Control Message Protocol (ICMP)  
+	  - [ ]  Traceroute in Network Layer
+	  - [ ]  How Address Resolution Protocol (ARP) works?
+	  - [ ]  ARP, Reverse ARP(RARP), Inverse ARP (InARP), Proxy ARP and Gratuitous ARP
+	  - [ ]  Packet flow in the same Network
+	  - [ ]  Packet flow in different Network
+	  - [ ]  Difference between Ping and Traceroute
+	- [ ] Transport layer:
+	  - [ ]  Transport Layer responsibilities
+	  - [ ]  Services and Segment structure in TCP
+	  - [ ]  TCP 3-Way Handshake Process
+	  - [ ]  TCP Connection Establishment
+	  - [ ]  TCP Connection Termination
+	  - [ ]  User Datagram Protocol (UDP)
+	  - [ ]  Differences between TCP and UDP
+	- [ ] Application layer:
+	  - [ ]  Protocols in Application Layer
+	  - [ ]  Address Resolution in DNS (Domain Name Server)
+	  - [ ]  Dynamic Host Configuration Protocol (DHCP)
+	  - [ ]  How DHCP server dynamically assigns IP address to a host?
+	  - [ ]  File Transfer Protocol (FTP) in Application Layer
+- [russian](https://mkdev.me/posts/kak-rabotayut-seti-chto-takoe-svitch-router-dns-dhcp-nat-vpn-i-eschyo-s-desyatok-neobhodimyh-veschey)
+- ##### tools
+	- [ ] [iptables](https://wiki.archlinux.org/title/iptables)
+		- [ ] create an add/delete rule
+		- [ ] what soed every chain mean?
+	- [ ] [netstat](https://www.lifewire.com/netstat-command-2618098)
+	- [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
+	- [ ] wireshark

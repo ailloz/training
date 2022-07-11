@@ -1,0 +1,16 @@
+- Refer to [wiki](https://guardicore.atlassian.net/wiki/spaces/TESTING/pages/3642228778/Automation+Labs). 
+- Watch all recordings and/or schedule sessions.
+- There are over a dozen labs. They are ordered in the chart by simplicity. You do not have to watch all of the videos / have all of the sessions during your onboarding period. Keep this list as a reference, and try to complete it within your first two months in the team.
+
+- [ ] Agent Operations Lab
+- [ ] Orchestrations Lab
+- [ ] Patch + DR
+- [ ] OS Coverage Lab
+- [ ] Policy Enforcement Lab (PEL)
+- [ ] PEL Legacy Labs
+- [ ] Remote Agent Upgrade Lab
+- [ ] Agent Stress Lab (Longevity Lab)
+- [ ] Kubernetes Isolation Lab
+- [ ] Cloud Labs
+- [ ] Functional Aggregators Lab
+- [ ] Management Isolation

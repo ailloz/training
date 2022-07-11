@@ -1,0 +1,3 @@
+- [ ] [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+- [ ] [Introduction to Linux OS](https://www.guru99.com/introduction-linux.html)
+- [ ] [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)

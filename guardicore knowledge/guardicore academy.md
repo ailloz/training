@@ -1,0 +1,17 @@
+- [ ] [Intro to Guardicore](https://academy.guardicore.com/home/LearningPath/117496?r=False&ts=637906144428787977)
+- [ ] [Guardicore Basic Training](https://academy.guardicore.com/course/3513891?r=False&ts=637919792188674956)
+- [ ] [GGO](https://academy.guardicore.com/home/LearningPath/147892?r=False&ts=637906144428787977)
+- [ ] [Competitive Training](https://academy.guardicore.com/home/LearningPath/164438?r=False&ts=637906144428787977)
+- [ ] [GsCP](https://academy.guardicore.com/home/LearningPath/144043?r=False&ts=637906144428787977)
+- [ ] [Installing Centra](https://academy.guardicore.com/home/LearningPath/150011?r=False&ts=637906144428787977)
+- [ ] [Confluence](https://academy.guardicore.com/course/6074678?r=False&ts=637906149617429589)
+- ##### Advanced:
+- [ ] [New Features](https://academy.guardicore.com/home/LearningPath/161979?r=False&ts=637906144428787977)
+- [ ] [Agent Deep Dive](https://academy.guardicore.com/course/3824980?r=False&ts=637906149617273292)
+- [ ] [Agent and Enforcement Driver](https://academy.guardicore.com/course/4753158?r=False&ts=637906149617273292)
+- [ ] [AIX 6.1 installation](https://academy.guardicore.com/course/5051186?r=False&ts=637906149617273292)
+- ##### More advanced topics:
+- [ ] [All that you wanted to know about containers](https://academy.guardicore.com/course/6927030?r=False&ts=637906149617273292)
+- [ ] [Breach Detection & Incident Response](https://academy.guardicore.com/course/3340356?r=False&ts=637906149617273292)
+- [ ] [Collection Intro](https://academy.guardicore.com/course/4773964?r=False&ts=637906149617429589)
+- [ ] [Disaster Recovery](https://academy.guardicore.com/course/4281155?r=False&ts=637906149617429589)

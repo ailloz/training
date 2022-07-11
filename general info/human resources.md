@@ -1,0 +1,2 @@
+- [Aloha](https://ac-aloha.akamai.com/)
+- [eTime](https://etime.akamai.com/) - where you fill out your time off - vacation, reserves, sick days, etc. - need to fill by the end of every month.

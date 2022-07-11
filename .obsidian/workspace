@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "18d7206eecbb2bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "225be3565e589f86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e7e1bfab81e681a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d6c5bd1beb244c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2291396fa7360650",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "01fc364b09db5b1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3412a49c85721eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0e003f05356f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bad94491b01b865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "225be3565e589f86",
+  "lastOpenFiles": [
+    "readme.md",
+    "readme pictures/1.png",
+    "accounts and workstation/agenda.md",
+    "accounts and workstation/accounts.md"
+  ]
+}

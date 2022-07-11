@@ -1,0 +1,3 @@
+- Applying for leave [eTime](https://etime.akamai.com/)
+- If you need to apply for leave, this is done on our system - eTime Tool.
+- Click on “Request Time Off” and fill in the relevant information. This does include an option for reserve duty (miluim).

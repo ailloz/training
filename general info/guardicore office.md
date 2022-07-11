@@ -1,0 +1,6 @@
+- Guardicore office address: 25th floor, Rubinstein Building, 20 Lincoln Street, Tel Aviv-Yafo
+- Parking - Employees located at Guardicore - Lincoln office (Rubinshtein Tower):
+	- If you plan to come to work by car, you can park for free in the Rubinshtein building parking lot .
+	- The entrance to this parking lot is from 6 Se’adya Ga’on Street, Tel-Aviv, )In Waze -“חניון רובינשטיין בתשלום”).
+	- You can also park in the “Levenshtein Tower” parking lot (דרך מנחם בגין 23) and walk 4 minutes to the office.
+	- When you arrive at the office, you may go to reception and pick up a free exit ticket for the parking lot.

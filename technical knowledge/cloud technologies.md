@@ -1,0 +1,14 @@
+- [ ] Virtualization. 
+	- [ ] Get familiarized with the core concepts:
+		- [ ] Virtual Machine
+		- [ ] Hypervisor (high level only)
+		- [ ] Virtual Network (high level)
+	- [ ] Know some virtualization/cloud technologies
+		- [ ] Vsphere - know your way around [https://testing.vcenter.guardi/](https://testing.vcenter.guardi/) 
+		- [ ] AWS/GCP/Azure
+		- [ ] Have a high level understanding of each one. 
+		- [ ] Ask for credentials for a GCP user. 
+		- [ ] Ask a team member to show you how to reach each one of these vms.
+- [ ] Docker & K8s
+	- [ ] [Docker](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+	- [ ] [K8s](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana)

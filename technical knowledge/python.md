@@ -1,0 +1,19 @@
+- [ ] Videos
+	- [ ] A great introduction to python [video](https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana). It is equivalent to a course. But very useful if you are new to python. 
+	- [ ] An [introduction to OOP in python](https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim). 
+	- [ ] [Asyc programming in python](https://www.youtube.com/watch?v=t5Bo1Je9EmE&ab_channel=TechWithTim)
+- [ ] Basics
+	- [ ] Syntax, PEP8
+	- [ ] OOP/functional programming in Python
+	- [ ] Multithreading, multiprocessing, asynchronous programming. Global Interpreter Lock (just know what it is). We mostly use async in our code. 
+	- [ ] Modern python language features 3.6+ (f-strings/match,walrus operator, decorators, etc..)
+	- [ ] Regex
+- [ ] Frameworks/Tools
+	- [ ] Pytest - understand a test flow - Setup -> test -> teardown
+		- [ ] Fixture concept and usage (scope,autouse, etc..)
+		- [ ] Test collection, markers
+		- [ ] pytest plugin structure, hooks
+		- [ ] See more in [index](https://docs.google.com/document/d/11K_3Tv_qOKIDy3H6WXrxsT0bB4ilBuntsHVXoSgh6F4/edit#heading=h.w79o6xu5xutm). 
+	- [ ] Pip
+	- [ ] Virtualenv
+- [ ] (Optional) Few python exercises: choose from here: [https://exercism.io/tracks/python/exercises](https://exercism.io/tracks/python/exercises)**

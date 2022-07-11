@@ -1,0 +1,11 @@
+- [ ] akamai EAA
+- [ ] webex
+- [ ] slack
+- [ ] zoom
+- [ ] wsl
+- [ ] mobaxterm/putty
+- [ ] pycharm pro
+- [ ] office (license given by devops)
+- [ ] 2FA github
+- [ ] allow RDP connections
+- [ ] testing environment (thin-env) on vcenter

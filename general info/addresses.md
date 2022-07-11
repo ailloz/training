@@ -1,0 +1,2 @@
+- Akamai office address: Floor 17, ToHa, 8 Totsoret Ha’Aretz, Tel Aviv.
+- Guardicore office address: 25th floor, Rubinstein Building, 20 Lincoln Street, Tel Aviv-Yafo

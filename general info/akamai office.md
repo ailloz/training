@@ -1,0 +1,18 @@
+- Akamai office address: Floor 17, ToHa, 8 Totsoret Ha’Aretz, Tel Aviv.
+- Working from the Toha office - [Spacebook](https://spacebook.akamai.com/?source=aloha)
+	- Booking a desk in the office: This can be done on Spacebook. 
+	- Please note that it is not possible to arrive without a pre-booked place – We work in a hybrid model. You can reserve a place for two weeks ahead. Once you arrive at the office, you need to ‘check in’ at the room you reserved. Room reservation is made for each day separately.
+	- If you still do not have a badge on your first day in the office, you need to book a desk (SpaceBook) Then you will be able to enter. The person sitting at reception will let you in. 
+- Fitness Club at Toha Building:
+	- The Fitness club is located on the 10th floor of the Toha building.
+	- Registration and a 25 minutes training session is required before using the gym.
+	- The trainings run daily from Sun to Thu, at 10 am and at 3 pm.
+	- The registration for the training should be arranged via email: [tohagym@toha.co.il](mailto:tohagym@toha.co.il) or by phone: 03-7356164 ext. 2.
+	- Initial training does not require coming in training clothes.
+	- After the initial training, the employee's ToHa badge must be coded at the tower's headquarters on the 10th floor from 11 am to 12 pm (Sun-Thu).
+	- At the end of this procedure the new user will be able to enjoy the gym services.
+	- Opening hours: Sunday – Thursday: 07:00 – 21:00 (closed on holiday & holiday eve.) 
+- Parking - Employees located at Toha:
+	- If you plan to come to work by car, you can park for free in the "Mivne"/ “Tel Aviv Towers” parking lot which is located in the Tel Aviv Towers.
+	- The entrance to this parking lot is from 8 Hafetz Haim Street, Tel-Aviv.
+	- The parking lot is in front of our office building. When you arrive at the office, you may go to reception and pick up a free exit ticket for the parking lot. The parking is ‘daily’. The reception hours are 10:00am to 15:00pm.

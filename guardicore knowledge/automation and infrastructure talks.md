@@ -1,0 +1,24 @@
+- Schedule meetings for each section with the person assign to it.
+
+- [ ] [Intro to Automation](https://drive.google.com/file/d/1maEEts7BIjAFt_HDa6NWerQ7g66jxpYd/view?usp=sharing) [Omri Ossie](mailto:omri.ossie@guardicore.com)
+- [ ] Our Tools
+	- [ ] Jenkins ([Nickolai Golovko](mailto:nickolai.golovko@guardicore.com)/[Omri Ossie](mailto:omri.ossie@guardicore.com))
+	- [ ] Jira and Confluence ([Roi Aharonson](mailto:roi.aharonson@guardicore.com))
+	- [ ] Vsphere
+	- [ ] TestRail ([Omri Ossie](mailto:omri.ossie@guardicore.com))
+	- [ ] Metabase ([Asaph Levy](mailto:asaph.levy@guardicore.com))
+	- [ ] Centra ([Rifaat Majadleh](mailto:rmajadle@akamai.com))
+- [ ] Environment Setup
+	- [ ] Pycharm 
+	- [ ] Github ([Roi Aharonson](mailto:roi.aharonson@guardicore.com))
+	- [ ] [WSL](https://guardicore.atlassian.net/wiki/spaces/TESTING/pages/3677749308/How+to+setup+AOL+ORCH+OSLAB+PEL+with+wsl2.+Alternative) ([Nickolai Golovko](mailto:nickolai.golovko@guardicore.com))
+- [ ] Hands on sessions
+	- [ ] Debugging nightly run ([Asaph Levy](mailto:asaph.levy@guardicore.com))
+	- [ ] Debugging a failed AOL suite ([Asaph Levy](mailto:asaph.levy@guardicore.com))
+- [ ] Testing automation coverage
+	- [ ] Coverage intro ([Roi Aharonson](mailto:roi.aharonson@guardicore.com)/[Nickolai Golovko](mailto:nickolai.golovko@guardicore.com))
+	- [ ] RC validations and nightly runs ([Roi Aharonson](mailto:roi.aharonson@guardicore.com)/[Asaph Levy](mailto:asaph.levy@guardicore.com))
+	- [ ] Evergreen ([Zeev Rosental](mailto:zeev.rosental@guardicore.com)/[Roi Aharonson](mailto:roi.aharonson@guardicore.com))
+	- [ ] Tuna Model and Test-Drive Model ([Liran Porat](mailto:liran.porat@guardicore.com))
+	- [ ] [Triggering and Monitoring testing suites](https://guardicore.atlassian.net/wiki/spaces/TESTING/pages/3901096230/Triggering+and+Monitoring+Suites) ([Zeev Rosental](mailto:zeev.rosental@guardicore.com))
+- [ ] Suite creation/execution, jenkins, envs, CLI ( [Omri Ossie](mailto:omri.ossie@guardicore.com) / [Nickolai Golovko](mailto:nickolai.golovko@guardicore.com)
