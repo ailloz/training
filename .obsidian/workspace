@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "general info/addresses.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "general info/addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,10 @@
   },
   "active": "225be3565e589f86",
   "lastOpenFiles": [
+    "general info/addresses.md",
+    "accounts and workstation/agenda.md",
     "readme.md",
     "readme pictures/1.png",
-    "accounts and workstation/agenda.md",
     "accounts and workstation/accounts.md"
   ]
 }
