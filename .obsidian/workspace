@@ -7,9 +7,10 @@
         "id": "225be3565e589f86",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "accounts and workstation/agenda.md"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "accounts and workstation/agenda.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +88,10 @@
   },
   "active": "225be3565e589f86",
   "lastOpenFiles": [
+    "README.md",
     "accounts and workstation/agenda.md",
     "accounts and workstation/accounts.md",
     "accounts and workstation/workstation.md",
-    "README.md",
     "general info/addresses.md",
     "readme.md",
     "readme pictures/1.png"

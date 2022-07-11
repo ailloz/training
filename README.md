@@ -6,34 +6,34 @@
 # Installing the Kanban plugin
 - After installing [Obsidian](https://obsidian.md/) open it and follow the instructions in the pictures:
 
-![1.png](https://github.com/ailloz/training/tree/master/README/pictures/1.png)
+![1.png](/README/pictures/1.png)
 
-![2.png](https://github.com/ailloz/training/tree/master/README/pictures/2.png)
+![2.png](/README/pictures/2.png)
 
-![3.png](https://github.com/ailloz/training/tree/master/README/pictures/3.png)
+![3.png](/README/pictures/3.png)
 
-![4.png](https://github.com/ailloz/training/tree/master/README/pictures/4.png)
+![4.png](/README/pictures/4.png)
 
-![5.png](https://github.com/ailloz/training/tree/master/README/pictures/5.png)
+![5.png](/README/pictures/5.png)
 
-![6.png](https://github.com/ailloz/training/tree/master/README/pictures/6.png)
+![6.png](/README/pictures/6.png)
 
-![7.png](https://github.com/ailloz/training/tree/master/README/pictures/7.png)
+![7.png](/README/pictures/7.png)
 
-![8.png](https://github.com/ailloz/training/tree/master/README/pictures/8.png)
+![8.png](/README/pictures/8.png)
 
-![9.png](https://github.com/ailloz/training/tree/master/README/pictures/9.png)
+![9.png](/README/pictures/9.png)
 
-![10.png](https://github.com/ailloz/training/tree/master/README/pictures/10.png)
+![10.png](/README/pictures/10.png)
 
-![11.png](https://github.com/ailloz/training/tree/master/README/pictures/11.png)
+![11.png](/README/pictures/11.png)
 
-![12.png](https://github.com/ailloz/training/tree/master/README/pictures/12.png)
+![12.png](/README/pictures/12.png)
 
-![13.png](https://github.com/ailloz/training/tree/master/README/pictures/13.png)
+![13.png](/README/pictures/13.png)
 
-![14.png](https://github.com/ailloz/training/tree/master/README/pictures/14.png)
+![14.png](/README/pictures/14.png)
 
-![15.png](https://github.com/ailloz/training/tree/master/README/pictures/15.png)
+![15.png](/README/pictures/15.png)
 
-![16.png](https://github.com/ailloz/training/tree/master/README/pictures/16.png)
+![16.png](/README/pictures/16.png)
