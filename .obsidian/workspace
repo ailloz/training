@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f61eba4cf0429b8f",
+        "id": "6aaa11a4dfc70733",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "accounts and workstation/critical links.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "accounts and workstation/critical links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f61eba4cf0429b8f",
+  "active": "6aaa11a4dfc70733",
   "lastOpenFiles": [
     "accounts and workstation/critical links.md",
     "README.md",
