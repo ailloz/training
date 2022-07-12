@@ -14,13 +14,13 @@
         }
       },
       {
-        "id": "c9340221277e7845",
+        "id": "1e4bd5a65c1403f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "guardicore knowledge/centra hands-on.md",
-            "mode": "preview"
+            "file": "guardicore knowledge/AOL hands-on.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guardicore knowledge/centra hands-on.md",
+                "file": "guardicore knowledge/AOL hands-on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,12 +96,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9340221277e7845",
+  "active": "1e4bd5a65c1403f5",
   "lastOpenFiles": [
-    "guardicore knowledge/centra hands-on.md",
-    "guardicore knowledge/agenda.md",
-    "guardicore knowledge/automation hands-on.md",
     "guardicore knowledge/AOL hands-on.md",
+    "guardicore knowledge/agenda.md",
+    "guardicore knowledge/centra hands-on.md",
+    "guardicore knowledge/automation hands-on.md",
     "guardicore knowledge/logs and debugging.md",
     "testrail.md",
     "guardicore knowledge/nightly testing.md",
