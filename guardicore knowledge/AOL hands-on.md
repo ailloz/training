@@ -13,21 +13,21 @@
 	- The last line will mark all the tests as training - so you can target them later.
 - [ ] You’ll also need to add a matching configuration in - guardicore\tests\agents\agent_operations_lab\agent_operations_lab\plugin.py
 - [ ] Under pytest_configure, add another configuration 
-```
-config.addinivalue_line("markers", "training: "mark to group Training tests.")
-```
+	```
+	config.addinivalue_line("markers", "training: "mark to group Training tests.")
+	```
 - [ ] Let’s add the first test -
-```
-@pytest.mark.run(order=1)
-@pytest.mark.possible_tested_os(os=[AllocationOS.UBUNTU_16])
-def test_install_agent_default_profile(test_machine: ClonedMachine):
-    log.info(f"Testing machine {test_machine}")
-```
+	```
+	@pytest.mark.run(order=1)
+	@pytest.mark.possible_tested_os(os=[AllocationOS.UBUNTU_16])
+	def test_install_agent_default_profile(test_machine: ClonedMachine):
+		log.info(f"Testing machine {test_machine}")
+	```
 - This is the minimal setup you’ll need. Now you can use Management Utils, Traffic Generator, or any other fixture to make actions.
 - [ ] To see usage examples take a look at:
-```
-guardicore\tests\agents\agent_operations_lab_scenarios\examples
-```
+	```
+	guardicore\tests\agents\agent_operations_lab_scenarios\examples
+	```
 - [ ] Try to add the following scenarios (and make them dependent) -
 	1. [ ] Install an Agent, and get the Agent’s version
 	2. [ ] Add an installation profile, and add a policy rule (for a random port)
