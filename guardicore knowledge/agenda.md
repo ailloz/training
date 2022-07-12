@@ -6,10 +6,14 @@ kanban-plugin: basic
 
 ## to-do
 
-- [ ] [[automation and infrastructure talks]]
 - [ ] [[guardicore academy]]
+- [ ] [[automation and infrastructure talks]]
 - [ ] [[automation labs]]
-- [ ] running tests
+- [ ] [[running tests]]
+- [ ] [[logs and debugging]]
+- [ ] [[automation hands-on]]
+- [ ] [[centra hands-on]]
+- [ ] [[AOL hands-on]]
 
 
 ## in-progress

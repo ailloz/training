@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "481b3bbd531f3dad",
+        "id": "899c0fd0bf8c5af2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "technical knowledge/python.md",
-            "mode": "source"
+            "file": "guardicore knowledge/agenda.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technical knowledge/python.md",
+                "file": "guardicore knowledge/agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "481b3bbd531f3dad",
+  "active": "899c0fd0bf8c5af2",
   "lastOpenFiles": [
-    "technical knowledge/python.md",
-    "technical knowledge/networking.md",
-    "guardicore knowledge/automation labs.md",
-    "guardicore knowledge/guardicore academy.md",
-    "guardicore knowledge/automation and infrastructure talks.md",
-    "README.md",
     "guardicore knowledge/agenda.md",
-    "general info/it support.md",
-    "general info/human resources.md",
-    "general info/holidays.md"
+    "guardicore knowledge/running tests.md",
+    "guardicore knowledge/logs and debugging.md",
+    "README.md",
+    "general info/critical links.md",
+    "guardicore knowledge/AOL hands-on.md",
+    "guardicore knowledge/centra hands-on.md",
+    "guardicore knowledge/automation hands-on.md",
+    "technical knowledge/python.md",
+    "technical knowledge/networking.md"
   ]
 }
