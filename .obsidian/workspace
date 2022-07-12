@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "general info/addresses.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general info/addresses.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "f61eba4cf0429b8f",
   "lastOpenFiles": [
+    "README.md",
     "general info/addresses.md",
     "general info/akamai office.md",
     "general info/apply for a leave.md",
@@ -96,7 +97,6 @@
     "general info/guardicore office.md",
     "general info/gym.md",
     "general info/holidays.md",
-    "general info/it support.md",
-    "general info/human resources.md"
+    "general info/it support.md"
   ]
 }
