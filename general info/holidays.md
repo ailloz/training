@@ -1,8 +1,8 @@
 - [Holidays / Wellness Days](https://ac-aloha.akamai.com/home/2022-holidays-wellness-days)
 - Akamai has wellness days (additional paid days off). Dates for Employees in Israel 2022:
-	Sunday, March 13, 2022
-	Sunday, May 8, 2022
-	Sunday, July 31, 2022
-	Sunday, August 28, 2022
-	Sunday, October 23, 2022
-	Sunday, December 4, 2022
+	- Sunday, March 13, 2022
+	- Sunday, May 8, 2022
+	- Sunday, July 31, 2022
+	- Sunday, August 28, 2022
+	- Sunday, October 23, 2022
+	- Sunday, December 4, 2022
