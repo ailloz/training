@@ -3,7 +3,7 @@
 # Installing this repository
 - Clone this repo to your desired directory:
 	``` git clone https://github.com/ailloz/training_template ```
-# Installing the Kanban plugin
+# Where to start
 - After installing [Obsidian](https://obsidian.md/) open it and follow the instructions in the pictures:
 
 ![1.png](/README/pictures/1.png)
