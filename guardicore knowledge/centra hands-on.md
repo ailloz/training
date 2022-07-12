@@ -1,105 +1,39 @@
-
-## Guardicore Centra Basics - Hands On (manual)
-
-1.  Introduction to the testing env -  [span diagram](https://docs.google.com/drawings/d/1RimBfAGAhx78Y6DizJqY0LcTSfxH8aqJtGLRtmNrPc0) and [thin diagram](https://drive.google.com/open?id=1vLeWZbiYzh4NlC1Lm8sa8B1rzNpz60_cn-pZK4RHbwA)
-    
-2.  Getting to know Centra
-    
-
-*** In the following sections you’ll get some hands on experience working with Centra. While you’re getting to know your squeaky clean test env make sure that it was built with the previous version (and not from the master branch) ***
-
-At any time - DON'T hesitate to ask Questions :)
-
-  
-
-### User Manuals
-
-Read and follow the User Manual (it will help you with the following steps).  
-The manual can be viewed at our customer portal:  
-[https://customers.Guardicore.com/](https://customers.guardicore.com/)
-
-  
-
-### Labeling
-
--   Create a new label (Centra->Reveal->Labels) named Agent:EvenNumber with criteria of names that either end with 2 or end with 4. Do the same for Agent:OddNumber and 1 or 3.
-    
--   Add label groups which will include these two labels 
-    
--   Try deleting the OddNumber label 
-    
--   Create a new dynamic label with criteria of full ip (100.100.102.211)
-    
--   Add the ip to one of the agents and verify the agent appears in the new dynamic label 
-    
-
-### Reveal
-
-This feature is what helps us to see traffic in the data-center.  
-In order to “feel” the feature, we will create some traffic and play with it in order to see how it works.  
-The traffic can then be ‘visualized’ in a map.  
-These are the things we will be doing:
-
--   Generate internal/external traffic in the datacenter
-    
--   Install Interesting application to you choice (that perform network traffic) and examine how it looks in the Datacenter view
-    
--   Define a simple segmentation policy and create an incident
-    
--   Check out the UI:
-    
-
--   Reveal -> Data Center
-    
--   Network Log
-    
-
-The how to:
-
-1.  Make a number of  connections to ports 5555, 6666, 7777, 8888 between the attackers/servers using netcat. For example:
-    
-
-1.  on Server1: nc -l -p 8888
-    
-2.  On Attacker1: nc 172.17.0.2 8888
-    
-
-3.  Make some connections to the internet (for example wget [www.ynet.co.il](http://www.yent.co.il), wget [www.evil.xyz.com](http://www.evil.msn.com))
-    
-
-  
-
- Now login to the UI and check out the reveal map (Reveal -> Saved Maps):
-
-1.  Create a new saved map with connections from the past 5 hours
-    
-2.  Open the saved map. can you make sense of what’s going on there? Retrace your steps and see how they look on the map (Double click the nodes to get all the way down to the process level)
-    
-3.  Filter out only connections to the internet
-    
-4.  Filter out connections from Attacker1
-    
-5.  Filter out connections from IP 100.100.100.11
-    
-6.  Filter out connections from one of the labels you've created earlier
-    
-7.  Exclude connections on  port 8888
-    
-8.  Change the grouping option to hosts. 
-    
-9.  Verify all of the connections appears in the network log 
-    
-10.  Follow the logs flow for one of the reported connections (Agent to Mgmt)
-    
-
-  
-
-### Deception
-
-Deception is a feature that redirects suspicious traffic to a “honeypot” VM in order make the attackers think they are actually attacking a real server in the data-center, while allowing Guardicore to collect data about the attackers and their attack vector.  
-  
-In order for you to simulate a simple “attack” and experience this we to generate some connections that would create incidents as well
-
+1. [ ] Labeling
+	1. [ ] Create a new label (Centra->Reveal->Labels) named Agent:EvenNumber with criteria of names that either end with 2 or end with 4. Do the same for Agent:OddNumber and 1 or 3.
+	2. [ ] Add label groups which will include these two labels 
+	3. [ ] Try deleting the OddNumber label 
+	4. [ ] Create a new dynamic label with criteria of full ip (100.100.102.211)
+	5. [ ] Add the ip to one of the agents and verify the agent appears in the new dynamic label 
+2. [ ] Reveal
+	- This feature is what helps us to see traffic in the data-center.  
+	- In order to “feel” the feature, we will create some traffic and play with it in order to see how it works.  
+	- The traffic can then be ‘visualized’ in a map.  
+	- These are the things we will be doing:
+		1. [ ] Generate internal/external traffic in the datacenter
+		2. [ ] Install Interesting application to you choice (that perform network traffic) and examine how it looks in the Datacenter view
+		3. [ ] Define a simple segmentation policy and create an incident
+		4. [ ] Check out the UI
+		5. [ ] Reveal -> Data Center
+		6. [ ] Network Log
+	- How to do it:
+		1. [ ]  Make a number of  connections to ports 5555, 6666, 7777, 8888 between the attackers/servers using netcat. For example:
+			1. [ ] On Server1: nc -l -p 8888
+			2. [ ] On Attacker1: nc 172.17.0.2 8888
+			3. [ ] Make some connections to the internet (for example wget [www.ynet.co.il](http://www.yent.co.il), wget [www.evil.xyz.com](http://www.evil.msn.com))
+		2. [ ] Login to the UI and check out the reveal map (Reveal -> Saved Maps):
+			1. [ ] Create a new saved map with connections from the past 5 hours
+			2. [ ] Open the saved map. can you make sense of what’s going on there? Retrace your steps and see how they look on the map (Double click the nodes to get all the way down to the process level)
+			3. [ ] Filter out only connections to the internet
+			4. [ ] Filter out connections from Attacker1
+			5. [ ] Filter out connections from IP 100.100.100.11
+			6. [ ] Filter out connections from one of the labels you've created earlier
+			7. [ ] Exclude connections on  port 8888
+			8. [ ] Change the grouping option to hosts. 
+			9. [ ] Verify all of the connections appears in the network log 
+			10. [ ] Follow the logs flow for one of the reported connections (Agent to Mgmt)
+3. [ ] Deception
+- Deception is a feature that redirects suspicious traffic to a “honeypot” VM in order make the attackers think they are actually attacking a real server in the data-center, while allowing Guardicore to collect data about the attackers and their attack vector.  
+- In order for you to simulate a simple “attack” and experience this we to generate some connections that would create incidents as well
 -   Create incidents:
     
 
