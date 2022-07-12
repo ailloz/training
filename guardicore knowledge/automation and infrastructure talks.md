@@ -21,4 +21,4 @@
 	- [ ] Evergreen ([Zeev Rosental](mailto:zeev.rosental@guardicore.com)/[Roi Aharonson](mailto:roi.aharonson@guardicore.com))
 	- [ ] Tuna Model and Test-Drive Model ([Liran Porat](mailto:liran.porat@guardicore.com))
 	- [ ] [Triggering and Monitoring testing suites](https://guardicore.atlassian.net/wiki/spaces/TESTING/pages/3901096230/Triggering+and+Monitoring+Suites) ([Zeev Rosental](mailto:zeev.rosental@guardicore.com))
-- [ ] Suite creation/execution, jenkins, envs, CLI ( [Omri Ossie](mailto:omri.ossie@guardicore.com) / [Nickolai Golovko](mailto:nickolai.golovko@guardicore.com)
+- [ ] Suite creation/execution, jenkins, envs, CLI ([Omri Ossie](mailto:omri.ossie@guardicore.com)/[Nickolai Golovko](mailto:nickolai.golovko@guardicore.com))
