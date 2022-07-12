@@ -11,7 +11,7 @@ kanban-plugin: basic
 - [ ] [[linux]]
 - [ ] [[legacy systems]]
 - [ ] [[cloud technologies]]
-- [ ] [[workstation]]
+- [ ] [[tools]]
 - [ ] [[technologies]]
 
 
