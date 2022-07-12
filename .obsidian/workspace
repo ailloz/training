@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "guardicore knowledge/automation and infrastructure talks.md",
+            "file": "technical knowledge/networking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guardicore knowledge/automation and infrastructure talks.md",
+                "file": "technical knowledge/networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "481b3bbd531f3dad",
   "lastOpenFiles": [
+    "technical knowledge/networking.md",
+    "guardicore knowledge/automation labs.md",
+    "guardicore knowledge/guardicore academy.md",
     "guardicore knowledge/automation and infrastructure talks.md",
     "README.md",
-    "guardicore knowledge/guardicore academy.md",
-    "guardicore knowledge/automation labs.md",
     "guardicore knowledge/agenda.md",
     "general info/it support.md",
     "general info/human resources.md",
     "general info/holidays.md",
-    "general info/gym.md",
-    "general info/guardicore office.md"
+    "general info/gym.md"
   ]
 }

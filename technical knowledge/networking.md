@@ -54,7 +54,7 @@
 - ##### tools
 	- [ ] [iptables](https://wiki.archlinux.org/title/iptables)
 		- [ ] create an add/delete rule
-		- [ ] what soed every chain mean?
+		- [ ] what does every chain mean?
 	- [ ] [netstat](https://www.lifewire.com/netstat-command-2618098)
 	- [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
 	- [ ] wireshark
