@@ -1,0 +1,30 @@
+**
+
+## Guardicore Webinars
+
+Here at Guardicore, we love to share knowledge, practices and our concepts.  
+We have Webinars led by our amazing professionals!
+
+You can check some of them out at [https://www.guardicore.com/resources/](https://www.guardicore.com/resources/)
+
+Make sure you select the ”Webinars” tab, so it will filter and show only the webinars.
+
+  
+
+You can also find many videos on our [YouTube channel  
+  
+](https://www.youtube.com/channel/UCxu1wG7IO4tfW9HFqV08YOw/videos)Some interesting webinars could be:
+
+-   How to Do Micro-Segmentation the Right Way [https://www.guardicore.com/resources/micro-segmentation-right-way/](https://www.guardicore.com/resources/micro-segmentation-right-way/)  
+      
+    
+-    Fighting Cybercrime: Defending the Fortress [https://summits.brighttalk.com/webinar/the-state-of-cyber-resiliency-in-the-age-of-attacks/?utm_source=guardicore](https://summits.brighttalk.com/webinar/the-state-of-cyber-resiliency-in-the-age-of-attacks/?utm_source=guardicore)  
+      
+    
+-   Protect Your Assets From Advanced Threats in The Data Center [https://www.guardicore.com/resources/protect-assets-advanced-threats-data-center/](https://www.guardicore.com/resources/protect-assets-advanced-threats-data-center/)  
+      
+    
+
+Don’t limit yourself to these webinars, these are just a few out of many that you might be interested in exploring
+
+**

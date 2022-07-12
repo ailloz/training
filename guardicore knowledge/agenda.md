@@ -14,6 +14,8 @@ kanban-plugin: basic
 - [ ] [[automation hands-on]]
 - [ ] [[centra hands-on]]
 - [ ] [[AOL hands-on]]
+- [ ] [[webinars]]
+- [ ] [[more knowlegde]]
 
 
 ## in-progress
