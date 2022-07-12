@@ -7,9 +7,10 @@
         "id": "899c0fd0bf8c5af2",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "guardicore knowledge/agenda.md"
+            "file": "technical knowledge/pytest index.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guardicore knowledge/agenda.md",
+                "file": "technical knowledge/pytest index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "899c0fd0bf8c5af2",
   "lastOpenFiles": [
+    "technical knowledge/pytest index.md",
     "guardicore knowledge/agenda.md",
-    "more knowlegde.md",
-    "webinars.md",
+    "guardicore knowledge/more knowlegde.md",
+    "guardicore knowledge/webinars.md",
     "guardicore knowledge/running tests.md",
     "guardicore knowledge/logs and debugging.md",
     "README.md",
     "general info/critical links.md",
     "guardicore knowledge/AOL hands-on.md",
-    "guardicore knowledge/centra hands-on.md",
-    "guardicore knowledge/automation hands-on.md"
+    "guardicore knowledge/centra hands-on.md"
   ]
 }
