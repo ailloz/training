@@ -5,11 +5,12 @@
 - [ ] Basics
 	- [ ] Syntax, PEP8
 	- [ ] OOP/functional programming in Python
-	- [ ] Multithreading, multiprocessing, asynchronous programming. Global Interpreter Lock (just know what it is). We mostly use async in our code. 
-	- [ ] Modern python language features 3.6+ (f-strings/match,walrus operator, decorators, etc..)
+	- [ ] Multithreading, multiprocessing, asynchronous programming. 
+	- [ ] Global Interpreter Lock (just know what it is). We mostly use async in our code. 
+	- [ ] Modern python language features 3.6+ (f-strings/match, walrus operator, decorators, etc)
 	- [ ] Regex
 - [ ] Frameworks/Tools
-	- [ ] Pytest - understand a test flow - Setup -> test -> teardown
+	- [ ] Pytest - understand a test flow - setup -> test -> teardown
 		- [ ] Fixture concept and usage (scope,autouse, etc..)
 		- [ ] Test collection, markers
 		- [ ] pytest plugin structure, hooks
