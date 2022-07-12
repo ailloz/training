@@ -6,16 +6,16 @@
 # Where to start
 - After installing [Obsidian](https://obsidian.md/) open it and follow the instructions in the pictures:
 
-![1.png](/README/pictures/1.png)
+![01.png](/README/pictures/01.png)
 
-![2.png](/README/pictures/2.png)
+![02.png](/README/pictures/02.png)
 
-![3.png](/README/pictures/3.png)
+![03.png](/README/pictures/03.png)
 
-![4.png](/README/pictures/4.png)
+![04.png](/README/pictures/04.png)
 
-![5.png](/README/pictures/5.png)
+![05.png](/README/pictures/05.png)
 
-![6.png](/README/pictures/6.png)
+![06.png](/README/pictures/06.png)
 
-![7.png](/README/pictures/7.png)
+![07.png](/README/pictures/07.png)
