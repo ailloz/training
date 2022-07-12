@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## to-do
 
-- [ ] [[accounts]]
 - [ ] [[workstation]]
+- [ ] [[accounts]]
 
 
 ## in-progress

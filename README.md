@@ -19,21 +19,3 @@
 ![6.png](/README/pictures/6.png)
 
 ![7.png](/README/pictures/7.png)
-
-![8.png](/README/pictures/8.png)
-
-![9.png](/README/pictures/9.png)
-
-![10.png](/README/pictures/10.png)
-
-![11.png](/README/pictures/11.png)
-
-![12.png](/README/pictures/12.png)
-
-![13.png](/README/pictures/13.png)
-
-![14.png](/README/pictures/14.png)
-
-![15.png](/README/pictures/15.png)
-
-![16.png](/README/pictures/16.png)
