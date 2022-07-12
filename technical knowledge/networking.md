@@ -2,54 +2,53 @@
 	- Chapters 1,3,4,6,7,8,9,11,13
 - [english](https://www.geeksforgeeks.org/computer-network-tutorials/)
 	- [ ] Computer Network Fundamentals :
-	   - [ ] Basics of Computer Networking
-	   - [ ] Types of Network Topology
-	   - [ ] Types of area networks – LAN, MAN and WAN
-	   - [ ]  Let's experiment with Networking - it requiring installing wireshark
-	   - [ ] Layers of OSI Model   
-	   - [ ]  TCP/IP Model
+	   - [ ] [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
+	   - [ ] [Types of Network Topology](https://www.geeksforgeeks.org/types-of-network-topology/?ref=lbp)
+	   - [ ] [Types of area networks – LAN, MAN and WAN](https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/)
+	   - [ ] [Let's experiment with Networking](https://www.geeksforgeeks.org/lets-experiment-with-networking/?ref=lbp)
+	   - [ ] [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/?ref=lbp)
+	   - [ ] [TCP/IP Model](https://www.geeksforgeeks.org/tcp-ip-model/?ref=lbp)
 	- [ ] Physical layer:
-	  - [ ]  Network Devices (Hub, Repeater, Bridge, Switch, Router, Gateways and Brouter)
-	  - [ ]  Transmission Modes in Computer Networks (Simplex, Half-Duplex and Full-Duplex) - **just to know how things works**
+	  - [ ] [Network Devices (Hub, Repeater, Bridge, Switch, Router, Gateways and Brouter)](https://www.geeksforgeeks.org/network-devices-hub-repeater-bridge-switch-router-gateways/)
+	  - [ ] [Transmission Modes in Computer Networks (Simplex, Half-Duplex and Full-Duplex) - **just to know how things works**](https://www.geeksforgeeks.org/transmission-modes-computer-networks/)
 	- [ ] Data Link layer:
-	  - [ ]  Introduction of MAC Address in Computer Network
+	  - [ ] [Introduction of MAC Address in Computer Network](https://www.geeksforgeeks.org/computer-network-introduction-mac-address/)
 	- [ ] Network layer:
-	  - [ ]  Introduction of Internetworking
-	  - [ ]  Line Configuration in Computer Networks
-	  - [ ]  Difference between Unicast, Broadcast and Multicast in Computer Network
-	  - [ ]  Introduction of Classful IP Addressing - **important to understand**
-	  - [ ]  Introduction and IPv4 Datagram Header - **just to know, not in deep**
-	  - [ ]  IPv4 Datagram Fragmentation and Delays - **just to know, not in deep**
-	  - [ ]  Internet Protocol version 6 (IPv6) - **important to understand**
-	  - [ ]  Internet Protocol version 6 (IPv6) Header - **just to know, not in deep**
-	  - [ ]  IP Addressing | Classless Addressing - **important to understand**
-	  - [ ]  Supernetting in Network Layer - **important to understand**
-	  - [ ]  Longest Prefix Matching in Routers
-	  - [ ]  Network Address Translation (NAT) - **important to understand**
-	  - [ ]  Types of Network Address Translation (NAT)
-	  - [ ]  Classification of Routing Algorithms
-	  - [ ]  Types of Routing
-	  - [ ]  Internet Control Message Protocol (ICMP)  
-	  - [ ]  Traceroute in Network Layer
-	  - [ ]  How Address Resolution Protocol (ARP) works?
-	  - [ ]  ARP, Reverse ARP(RARP), Inverse ARP (InARP), Proxy ARP and Gratuitous ARP
-	  - [ ]  Packet flow in the same Network
-	  - [ ]  Packet flow in different Network
-	  - [ ]  Difference between Ping and Traceroute
+	  - [ ] [Internetworking](https://www.geeksforgeeks.org/computer-networks-internetworking/)
+	  - [ ] [Line Configuration in Computer Networks](https://www.geeksforgeeks.org/line-configuration-computer-networks/)
+	  - [ ] [Unicast, Broadcast and Multicast](https://www.geeksforgeeks.org/computer-network-difference-unicast-broadcast-multicast/)
+	  - [ ] [IP Addressing | Introduction and Classful Addressing - **important to understand**](https://www.geeksforgeeks.org/ip-addressing-introduction-and-classful-addressing/)
+	  - [ ]  [Introduction and IPv4 Datagram Header - **just to know, not in deep**](https://www.geeksforgeeks.org/network-layer-introduction-ipv4/)
+	  - [ ] [IPv4 Datagram Fragmentation and Delays - **just to know, not in deep**](https://www.geeksforgeeks.org/network-layer-ipv4-datagram-fragmentation-and-delays/)
+	  - [ ] [Internet Protocol version 6 (IPv6) - **important to understand**](https://www.geeksforgeeks.org/internet-protocol-v6-ipv6/)
+	  - [ ] [Internet Protocol version 6 (IPv6) Header - **just to know, not in deep**](https://www.geeksforgeeks.org/computer-network-internet-protocol-version-6-ipv6-header/)
+	  - [ ] [IP Addressing | Classless Addressing - **important to understand**](https://www.geeksforgeeks.org/ip-addressing-classless-addressing/)
+	  - [ ] [Supernetting - **important to understand**](https://www.geeksforgeeks.org/computer-network-supernetting/)
+	  - [ ] [Longest Prefix Matching in Routers](https://www.geeksforgeeks.org/computer-networks-longest-prefix-matching-in-routers/)
+	  - [ ] [Network Address Translation (NAT) - **important to understand**](https://www.geeksforgeeks.org/computer-network-network-address-translation-nat/)
+	  - [ ] [Types of Network Address Translation (NAT)](https://www.geeksforgeeks.org/computer-network-types-network-address-translation-nat/)
+	  - [ ] [Classification of Routing Algorithms](https://www.geeksforgeeks.org/computer-network-classification-routing-algorithms/)
+	  - [ ] [Types of Routing](https://www.geeksforgeeks.org/computer-network-types-routing/)
+	  - [ ] [Internet Control Message Protocol (ICMP)](https://www.geeksforgeeks.org/internet-control-message-protocol-icmp/)
+	  - [ ] [Traceroute](https://www.geeksforgeeks.org/computer-networks-traceroute/)
+	  - [ ] [How Address Resolution Protocol (ARP) works?](https://www.geeksforgeeks.org/computer-network-arp-works/)
+	  - [ ] [ARP, Reverse ARP(RARP), Inverse ARP (InARP), Proxy ARP and Gratuitous ARP](https://www.geeksforgeeks.org/computer-network-arp-reverse-arprarp-inverse-arpinarp-proxy-arp-gratuitous-arp/)
+	  - [ ] [Packet flow in the same Network](https://www.geeksforgeeks.org/computer-network-packet-flow-network/)
+	  - [ ] [Packet flow in different Network](https://www.geeksforgeeks.org/computer-network-packet-flow-different-network/)
+	  - [ ] [Difference between Ping and Traceroute](https://www.geeksforgeeks.org/whats-difference-between-ping-and-traceroute/)
 	- [ ] Transport layer:
-	  - [ ]  Transport Layer responsibilities
-	  - [ ]  Services and Segment structure in TCP
-	  - [ ]  TCP 3-Way Handshake Process
-	  - [ ]  TCP Connection Establishment
-	  - [ ]  TCP Connection Termination
-	  - [ ]  User Datagram Protocol (UDP)
-	  - [ ]  Differences between TCP and UDP
+	  - [ ] [Transport Layer responsibilities](https://www.geeksforgeeks.org/computer-network-transport-layer-responsibilities/)
+	  - [ ] [TCP | Services and Segment structure](https://www.geeksforgeeks.org/tcp-services-and-segment-structure/)
+	  - [ ] [TCP 3-Way Handshake Process](https://www.geeksforgeeks.org/computer-network-tcp-3-way-handshake-process/)
+	  - [ ] [TCP Connection Establishment](https://www.geeksforgeeks.org/computer-network-tcp-connection-establishment/)
+	  - [ ] [TCP Connection Termination](https://www.geeksforgeeks.org/computer-network-tcp-connection-termination/)
+	  - [ ] [User Datagram Protocol (UDP)](https://www.geeksforgeeks.org/computer-network-user-datagram-protocol-udp/)
 	- [ ] Application layer:
-	  - [ ]  Protocols in Application Layer
-	  - [ ]  Address Resolution in DNS (Domain Name Server)
-	  - [ ]  Dynamic Host Configuration Protocol (DHCP)
-	  - [ ]  How DHCP server dynamically assigns IP address to a host?
-	  - [ ]  File Transfer Protocol (FTP) in Application Layer
+	  - [ ] [Protocols in Application Layer](https://www.geeksforgeeks.org/protocols-application-layer/)
+	  - [ ] [Address Resolution in DNS (Domain Name Server)](https://www.geeksforgeeks.org/address-resolution-dns/)
+	  - [ ] [Dynamic Host Configuration Protocol (DHCP)](https://www.geeksforgeeks.org/computer-network-dynamic-host-configuration-protocol-dhcp/)
+	  - [ ] [How DHCP server dynamically assigns IP address to a host?](https://www.geeksforgeeks.org/how-dhcp-server-dynamically-assigns-ip-address-to-a-host/)
+	  - [ ] [File Transfer Protocol (FTP) in Application Layer](https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/)
 - [russian](https://mkdev.me/posts/kak-rabotayut-seti-chto-takoe-svitch-router-dns-dhcp-nat-vpn-i-eschyo-s-desyatok-neobhodimyh-veschey)
 - ##### tools
 	- [ ] [iptables](https://wiki.archlinux.org/title/iptables)

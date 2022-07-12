@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6aaa11a4dfc70733",
+        "id": "24812535aaf3cca0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6aaa11a4dfc70733",
+  "active": "24812535aaf3cca0",
   "lastOpenFiles": [
+    "technical knowledge/networking.md",
     "accounts and workstation/critical links.md",
     "README.md",
     "general info/addresses.md",
@@ -92,7 +93,6 @@
     "general info/contacts.md",
     "general info/guardicore office.md",
     "general info/gym.md",
-    "general info/holidays.md",
-    "general info/it support.md"
+    "general info/holidays.md"
   ]
 }
