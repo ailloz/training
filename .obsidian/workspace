@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f2d7dad5b87c1d89",
+        "id": "0b66cbe1ec36c76d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "accounts and workstation/workstation.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "accounts and workstation/workstation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2d7dad5b87c1d89",
+  "active": "0b66cbe1ec36c76d",
   "lastOpenFiles": [
+    "accounts and workstation/workstation.md",
     "README.md",
     "accounts and workstation/agenda.md",
     "accounts and workstation/accounts.md",
@@ -92,7 +97,6 @@
     "technical knowledge/networking.md",
     "accounts and workstation/critical links.md",
     "general info/addresses.md",
-    "general info/akamai office.md",
-    "general info/apply for a leave.md"
+    "general info/akamai office.md"
   ]
 }
