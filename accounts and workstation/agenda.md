@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] [[accounts]]
 - [ ] [[workstation]]
+- [ ] [[critical links]]
 
 
 ## in-progress

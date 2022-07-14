@@ -8,11 +8,12 @@ kanban-plugin: basic
 
 - [ ] [[networking]]
 - [ ] [[python]]
+- [ ] [[pytest index]]
 - [ ] [[linux]]
 - [ ] [[legacy systems]]
 - [ ] [[cloud technologies]]
-- [ ] [[tools]]
 - [ ] [[technologies]]
+- [ ] [[tools]]
 
 
 ## in-progress
