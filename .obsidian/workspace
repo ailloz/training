@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b66cbe1ec36c76d",
+        "id": "bda1311d41d6ff8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "accounts and workstation/workstation.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "accounts and workstation/workstation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b66cbe1ec36c76d",
+  "active": "bda1311d41d6ff8c",
   "lastOpenFiles": [
     "accounts and workstation/workstation.md",
     "README.md",
