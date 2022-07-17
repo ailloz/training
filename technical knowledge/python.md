@@ -6,7 +6,7 @@
 	- [ ] Syntax, PEP8
 	- [ ] OOP/functional programming in Python
 	- [ ] Multithreading, multiprocessing, asynchronous programming. 
-	- [ ] Global Interpreter Lock (just know what it is). We mostly use async in our code. 
+	- [ ] Global Interpreter Lock (just know what it is).
 	- [ ] Modern python language features 3.6+ (f-strings/match, walrus operator, decorators, etc)
 	- [ ] Regex
 - [ ] Frameworks/Tools

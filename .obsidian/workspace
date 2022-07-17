@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ecaac7715fde69e7",
+        "id": "a6f347d91da1de54",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecaac7715fde69e7",
+  "active": "2291396fa7360650",
   "lastOpenFiles": [
+    "accounts and workstation/agenda.md",
+    "accounts and workstation/critical links.md",
     "accounts and workstation/workstation.md",
     "accounts and workstation/accounts.md",
     "general info/agenda.md",
-    "general info/akamai office.md",
     "general info/it support.md",
-    "technical knowledge/agenda.md",
-    "accounts and workstation/agenda.md",
-    "accounts and workstation/critical links.md",
-    "README.md",
-    "guardicore knowledge/agenda.md"
+    "general info/human resources.md",
+    "general info/holidays.md",
+    "general info/gym.md",
+    "general info/guardicore office.md"
   ]
 }
