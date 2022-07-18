@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7155bd180f80e36f",
+        "id": "dcb54745878868b7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7155bd180f80e36f",
+  "active": "dcb54745878868b7",
   "lastOpenFiles": [
+    "technical knowledge/tools.md",
     "technical knowledge/networking.md",
     "accounts and workstation/agenda.md",
     "accounts and workstation/critical links.md",
@@ -92,7 +93,6 @@
     "general info/agenda.md",
     "general info/it support.md",
     "general info/human resources.md",
-    "general info/holidays.md",
-    "general info/gym.md"
+    "general info/holidays.md"
   ]
 }

@@ -1,4 +1,8 @@
-- [ ] tcpdump
+- [ ] [iptables](https://wiki.archlinux.org/title/iptables)
+	- [ ] create an add/delete rule
+	- [ ] what does every chain mean?
+- [ ] [netstat](https://www.lifewire.com/netstat-command-2618098)
+- [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
 - [ ] netcat
 - [ ] wget
 - [ ] awk
