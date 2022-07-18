@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f347d91da1de54",
+        "id": "7155bd180f80e36f",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2291396fa7360650",
+  "active": "7155bd180f80e36f",
   "lastOpenFiles": [
+    "technical knowledge/networking.md",
     "accounts and workstation/agenda.md",
     "accounts and workstation/critical links.md",
     "accounts and workstation/workstation.md",
@@ -92,7 +93,6 @@
     "general info/it support.md",
     "general info/human resources.md",
     "general info/holidays.md",
-    "general info/gym.md",
-    "general info/guardicore office.md"
+    "general info/gym.md"
   ]
 }
