@@ -51,9 +51,9 @@
 	  - [ ] [File Transfer Protocol (FTP) in Application Layer](https://www.geeksforgeeks.org/computer-network-file-transfer-protocol-ftp/)
 - [russian](https://mkdev.me/posts/kak-rabotayut-seti-chto-takoe-svitch-router-dns-dhcp-nat-vpn-i-eschyo-s-desyatok-neobhodimyh-veschey)
 - ##### tools
-	- [ ] [iptables](https://wiki.archlinux.org/title/iptables) - nftables (because iptables is deprecated)
+	- [ ] [iptables](https://wiki.archlinux.org/title/iptables)
 		- [ ] create an add/delete rule
 		- [ ] what does every chain mean?
-	- [ ] [netstat](https://www.lifewire.com/netstat-command-2618098) - ss (because netstat is deprecated)
+	- [ ] [netstat](https://www.lifewire.com/netstat-command-2618098)
 	- [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
 	- [ ] wireshark
