@@ -8,7 +8,6 @@
 	- [ ] Multithreading, multiprocessing, asynchronous programming. 
 	- [ ] Global Interpreter Lock (just know what it is).
 	- [ ] Modern python language features 3.6+ (f-strings/match, walrus operator, decorators, etc)
-	- [ ] Regex
 - [ ] Frameworks/Tools
 	- [ ] Pytest - understand a test flow - setup -> test -> teardown
 		- [ ] Fixture concept and usage (scope,autouse, etc..)
@@ -17,4 +16,4 @@
 		- [ ] See more in [index](https://docs.google.com/document/d/11K_3Tv_qOKIDy3H6WXrxsT0bB4ilBuntsHVXoSgh6F4/edit#heading=h.w79o6xu5xutm). 
 	- [ ] Pip
 	- [ ] Virtualenv
-- [ ] (Optional) Few python exercises: choose from here: [https://exercism.io/tracks/python/exercises](https://exercism.io/tracks/python/exercises)**
+- [ ] (Optional) Few python exercises: choose from here: [https://exercism.io/tracks/python/exercises](https://exercism.io/tracks/python/exercises)

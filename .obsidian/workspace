@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb54745878868b7",
+        "id": "5826df296256283d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dcb54745878868b7",
+  "active": "5826df296256283d",
   "lastOpenFiles": [
+    "technical knowledge/python.md",
     "technical knowledge/tools.md",
     "technical knowledge/networking.md",
     "accounts and workstation/agenda.md",
@@ -92,7 +93,6 @@
     "accounts and workstation/accounts.md",
     "general info/agenda.md",
     "general info/it support.md",
-    "general info/human resources.md",
-    "general info/holidays.md"
+    "general info/human resources.md"
   ]
 }

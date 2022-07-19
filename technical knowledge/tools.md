@@ -13,3 +13,4 @@
 - [ ] tmux - [cheatsheet](https://tmuxcheatsheet.com/)/[guide](https://danielmiessler.com/study/tmux/#shortcut)
 - [ ] [pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 - [ ] ansible - [quick guide](https://www.tutorialspoint.com/ansible/ansible_quick_guide.htm)/[docs](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+- [ ] regex - [test your expressions](https://regexr.com/)
