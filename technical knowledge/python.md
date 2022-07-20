@@ -10,7 +10,8 @@
 	- [ ] Modern python language features 3.6+ (f-strings/match, walrus operator, decorators, etc)
 - [ ] Frameworks/Tools
 	- [ ] Pytest
-		- [Pytest Docs](https://drive.google.com/file/d/1NiS19lnnmVQxcPaEvnzM4K-y4RA0LiYb/view?usp=sharing) (May 2022)
+		- [Video Tutorial](https://www.youtube.com/watch?v=bbp_849-RZ4&ab_channel=ProgrammingKnowledge)
+		- [Docs](https://drive.google.com/file/d/1NiS19lnnmVQxcPaEvnzM4K-y4RA0LiYb/view?usp=sharing) (May 2022)
 			- Relevant Subjects:
 				- Green - Important
 				- Yellow - nice to know, not that important
