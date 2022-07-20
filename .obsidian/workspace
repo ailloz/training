@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5826df296256283d",
+        "id": "4f2b6b6c80a3ca8e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5826df296256283d",
+  "active": "4f2b6b6c80a3ca8e",
   "lastOpenFiles": [
-    "technical knowledge/tools.md",
+    "technical knowledge/agenda.md",
     "technical knowledge/python.md",
+    "technical knowledge/pytest index.md",
+    "technical knowledge/tools.md",
     "technical knowledge/networking.md",
     "accounts and workstation/agenda.md",
     "accounts and workstation/critical links.md",
     "accounts and workstation/workstation.md",
     "accounts and workstation/accounts.md",
-    "general info/agenda.md",
-    "general info/it support.md",
-    "general info/human resources.md"
+    "general info/agenda.md"
   ]
 }

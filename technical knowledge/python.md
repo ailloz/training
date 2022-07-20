@@ -9,11 +9,15 @@
 	- [ ] Global Interpreter Lock (just know what it is).
 	- [ ] Modern python language features 3.6+ (f-strings/match, walrus operator, decorators, etc)
 - [ ] Frameworks/Tools
-	- [ ] Pytest - understand a test flow - setup -> test -> teardown
-		- [ ] Fixture concept and usage (scope,autouse, etc..)
-		- [ ] Test collection, markers
-		- [ ] pytest plugin structure, hooks
-		- [ ] See more in [index](https://docs.google.com/document/d/11K_3Tv_qOKIDy3H6WXrxsT0bB4ilBuntsHVXoSgh6F4/edit#heading=h.w79o6xu5xutm). 
+	- [ ] Pytest
+		- [Pytest Docs](https://drive.google.com/file/d/1NiS19lnnmVQxcPaEvnzM4K-y4RA0LiYb/view?usp=sharing) (May 2022)
+			- Relevant Subjects:
+				- Green - Important
+				- Yellow - nice to know, not that important
+				- Blank - skip
+				![](https://lh3.googleusercontent.com/YAIGhOAbh0qqBZLhMQ_IJQm4PamkCn-iYqcF9XvSeJXKu3kCBfc5qHdtFT42BeWOSYwxVqptZgV065MvoFr0XoLP6eART-g8UcAO0L-6jeYWOG7Q03i8n6sEk0Orz1rDGam1jTMVvLzBooY7OA)
 	- [ ] Pip
 	- [ ] Virtualenv
-- [ ] (Optional) Few python exercises: choose from here: [https://exercism.io/tracks/python/exercises](https://exercism.io/tracks/python/exercises)
+- [ ] Python exercises (Optional)
+	- [https://exercism.io/tracks/python/exercises](https://exercism.io/tracks/python/exercises)
+
