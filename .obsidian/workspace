@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2b6b6c80a3ca8e",
+        "id": "fcec07f32ca71e51",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f2b6b6c80a3ca8e",
+  "active": "fcec07f32ca71e51",
   "lastOpenFiles": [
     "technical knowledge/python.md",
     "technical knowledge/agenda.md",
