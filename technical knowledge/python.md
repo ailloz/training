@@ -12,19 +12,77 @@
 	- [ ] Pytest
 		- [Video Tutorial](https://www.youtube.com/watch?v=bbp_849-RZ4&ab_channel=ProgrammingKnowledge)
 		- [Docs](https://drive.google.com/file/d/1NiS19lnnmVQxcPaEvnzM4K-y4RA0LiYb/view?usp=sharing) (May 2022)
-			- Relevant Chapters:
-				- [ ] 2.1
-				- [ ] 2.2
-				- [ ] 2.3
-				- [ ] 2.4
-				- [ ] 2.5
-				- [ ] 2.10
-				- [ ] 2.13
-				- [ ] 4.1
-				- [ ] 4.2
-				- [ ] 4.3 (nice to know)
-				- [ ] 4.4
-				- [ ] 4.5 (nice to know)
+			- [ ] 2.1 How to invoke pytest
+				- [ ] 2.1.1 Specifying which tests to run
+				- [ ] 2.1.2 Getting help on version, option names, environment variables
+				- [ ] 2.1.3 Profiling test execution duration
+				- [ ] 2.1.4 Managing loading of plugins
+				- [ ] 2.1.5 Other ways of calling pytest
+			- [ ] 2.2 How to write and report assertions in tests
+				- [ ] 2.2.1 Asserting with the assert statement
+				- [ ] 2.2.2 Assertions about expected exceptions
+				- [ ] 2.2.3 Assertions about expected warnings
+				- [ ] 2.2.4 Making use of context-sensitive comparisons
+				- [ ] 2.2.5 Defining your own explanation for failed assertions
+				- [ ] 2.2.6 Assertion introspection details
+			- [ ] 2.3 How to use fixtures
+				- [ ] 2.3.1 “Requesting” fixtures
+				- [ ] 2.3.2 Autouse fixtures (fixtures you don’t have to request)
+				- [ ] 2.3.3 Scope: sharing fixtures across classes, modules, packages or session
+				- [ ] 2.3.4 Teardown/Cleanup (AKA Fixture finalization)
+				- [ ] 2.3.5 Safe teardowns
+				- [ ] 2.3.6 Running multiple assert statements safely
+				- [ ] 2.3.7 Fixtures can introspect the requesting test context
+				- [ ] 2.3.8 Using markers to pass data to fixtures
+				- [ ] 2.3.9 Factories as fixtures
+				- [ ] 2.3.10 Parametrizing fixtures
+				- [ ] 2.3.11 Using marks with parametrized fixtures
+				- [ ] 2.3.12 Modularity: using fixtures from a fixture function
+				- [ ] 2.3.13 Automatic grouping of tests by fixture instances
+				- [ ] 2.3.14 Use fixtures in classes and modules with usefixtures
+				- [ ] 2.3.15 Overriding fixtures on various levels
+				- [ ] 2.3.16 Using fixtures from other projects
+			- [ ] 2.4 How to mark test functions with attributes
+				- [ ] 2.4.1 Registering marks
+				- [ ] 2.4.2 Raising errors on unknown marks
+			- [ ] 2.5 How to parametrize fixtures and test functions
+				- [ ] 2.5.1 @pytest.mark.parametrize: parametrizing test functions
+				- [ ] 2.5.2 Basic pytest_generate_tests example
+				- [ ] 2.5.3 More examples
+			- [ ] 2.10 How to manage logging
+				- [ ] 2.10.1 caplog fixture
+				- [ ] 2.10.2 Live Logs
+				- [ ] 2.10.3 Customizing Colors
+				- [ ] 2.10.4 Release notes
+				- [ ] 2.10.5 Incompatible changes in pytest 3.4
+			- [ ] 2.13 How to use skip and xfail to deal with tests that cannot succeed
+				- [ ] 2.13.1 Skipping test functions
+				- [ ] 2.13.2 XFail: mark test functions as expected to fail
+				- [ ] 2.13.3 Skip/xfail with parametrize
+			- [ ] 4.1 Anatomy of a test
+			- [ ] 4.2 About fixtures
+				- [ ] 4.2.1 What fixtures are
+				- [ ] 4.2.2 Improvements over xUnit-style setup/teardown functions
+				- [ ] 4.2.3 Fixture errors
+				- [ ] 4.2.4 Sharing test data
+				- [ ] 4.2.5 A note about fixture cleanup
+			- [ ] 4.3 Good Integration Practices (NOT REQUIRED, NICE TO KNOW)
+				- [ ] 4.3.1 Install package with pip
+				- [ ] 4.3.2 Conventions for Python test discovery
+				- [ ] 4.3.3 Choosing a test layout / import rules
+				- [ ] 4.3.4 tox
+				- [ ] 4.3.5 Do not run via setuptools
+			- [ ] 4.4 Flaky tests
+				- [ ] 4.4.1 Why flaky tests are a problem
+				- [ ] 4.4.2 Potential root causes
+				- [ ] 4.4.3 Pytest features
+				- [ ] 4.4.4 Other general strategies
+				- [ ] 4.4.5 Research
+				- [ ] 4.4.6 Resources
+			- [ ] 4.5 pytest import mechanisms and sys.path/PYTHONPATH (NOT REQUIRED, NICE TO KNOW)
+				- [ ] 4.5.1 Import modes
+				- [ ] 4.5.2 prepend and append import modes scenarios
+				- [ ] 4.5.3 Invoking pytest versus python -m pytest
 	- [ ] Pip
 	- [ ] Virtualenv
 - [ ] Python exercises (Optional)
